@@ -1,1 +1,1 @@
-print('multiple liner regression')
+print('multiple liner regression.')
